@@ -4,4 +4,4 @@ If you believe you have found a security vulnerability, we encourage you to let 
 
 We will investigate all legitimate reports and do our best to quickly fix the problem.
 
-Email `security@templarize.com` to disclose any security vulnerabilities.
+Email security@templarize.com to disclose any security vulnerabilities.
